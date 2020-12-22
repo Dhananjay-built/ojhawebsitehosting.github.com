@@ -104,7 +104,7 @@ nav .menu a:hover{
 }
 .images{
     width:100%;
-    height:304px;
+    height:400px;
     position: absolute;
     animation:slider 7s infinite linear;
     background-size:100% 100%;
@@ -113,5 +113,5 @@ nav .menu a:hover{
 }
 @keyframes slider{
     0%{background-image:url('travelindia.png');}
-        75{bacground-image:url('hindpay.png');}
+        75%{bacground-image:url('hindpay.png');}
 }
