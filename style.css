@@ -112,6 +112,6 @@ nav .menu a:hover{
    
 }
 @keyframes slider{
-    0%{background-image:url('travelindia.png');
-    75{bacground-image:url('hindpay.png');
+    0%{background-image:url('travelindia.png');}
+        75{bacground-image:url('hindpay.png');}
 }
